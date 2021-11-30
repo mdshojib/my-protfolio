@@ -1,0 +1,17 @@
+.contact-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 50px;
+    margin-bottom: 20px;
+}
+.contact-container form input{
+    padding: 8px 0;
+}
+.contact-container form textarea{
+    padding: 8px 0;
+}
+.contact-container form input, textarea {
+    margin: 10px 0;
+    width: 60%;
+}
